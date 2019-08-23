@@ -1,2 +1,1 @@
-Este é o segundo arquivo.
-Termina nessa linha.
+Este Ã© o segundo arquivo.
